@@ -1,7 +1,6 @@
-<center>
-    <img src="image/giphy.gif">
-</center>
-
+<div align="center">
+  <img src="image/giphy.gif">
+</div>
 
 ## Briefly about myself:
 
