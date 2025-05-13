@@ -1,4 +1,7 @@
-![](image/giphy.gif)
+<div style="text-align:center;">
+    <img src="image/giphy.gif">
+</div>
+
 
 ## Briefly about myself:
 
